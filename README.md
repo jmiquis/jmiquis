@@ -1,24 +1,24 @@
 ### Right here,right now... 🎵
 
 ## :book: dealing with 
-#### - docker :whale:
-#### - aws :cloud:
-#### - hex. architecture :large_orange_diamond:
-#### - Domain Driven Design :warning:
-#### - microservices :department_store: :department_store: :department_store:
-#### - CQRS 🚌
+ - docker :whale:
+ - aws :cloud:
+ - hex. architecture :large_orange_diamond:
+ - Domain Driven Design :warning:
+ - microservices :department_store: :department_store: :department_store:
+ - CQRS 🚌
 
 ## 🛠️ actually working with
 
-#### - springboot :hotsprings:
-#### - angular :triangular_ruler:
-#### - php ❔
+ - springboot :hotsprings:
+ - angular :triangular_ruler:
+ - php ❔
 
 ## todos 🏹
-#### - alexa developer certification 🗣️
+ - alexa developer certification 🗣️
 
 ## ultra secret projects :alien:
-#### - there is somethin' arround here ... 👷‍♂️
+ - there is somethin' arround here ... 👷‍♂️
 
 ### Hall Of Meme
 
