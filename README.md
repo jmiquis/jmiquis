@@ -5,7 +5,7 @@
 #### - aws :cloud:
 #### - hex. architecture :large_orange_diamond:
 #### - Domain Driven Design :warning:
-#### - Microservices :department_store: :department_store: :department_store:
+#### - microservices :department_store: :department_store: :department_store:
 #### - CQRS 🚌
 
 ## 🛠️ actually working with
