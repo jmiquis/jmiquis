@@ -14,7 +14,7 @@
  - angular :triangular_ruler:
  - php ❔
 
-## todos 🏹
+## 🏹 todos 
  - alexa developer certification 🗣️
 
 ## ultra secret projects :alien:
