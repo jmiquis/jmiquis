@@ -17,7 +17,7 @@
 ## 🏹 todos 
  - alexa developer certification 🗣️
 
-## ultra secret projects :alien:
+## :alien: ultra secret projects 
  - there is somethin' arround here ... 👷‍♂️
 
 ### Hall Of Meme
