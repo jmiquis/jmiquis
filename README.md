@@ -15,6 +15,7 @@
  - php ❔
 
 ## 🏹 todos 
+ - aws developer associate ☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕
  - alexa developer certification 🗣️
 
 ## :alien: ultra secret projects 
