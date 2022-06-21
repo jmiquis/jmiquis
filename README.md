@@ -16,7 +16,7 @@
 
 ## 🏹 todos 
  - aws developer associate ☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕
- - alexa developer certification 🗣️
+ - alexa skill builder speciallity 🗣️
 
 ## :alien: ultra secret projects 
  - there is somethin' arround here ... 👷‍♂️
