@@ -15,11 +15,8 @@
  - php ❔
 
 ## 🏹 todos 
- - aws developer associate ☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕
+ - aws developer associate ☕☕☕☕☕
  - alexa skill builder speciallity 🗣️
-
-## :alien: ultra secret projects 
- - there is somethin' arround here ... 👷‍♂️
 
 ### Hall Of Meme
 
