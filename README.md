@@ -1,4 +1,3 @@
-### Right here,right now... 🎵
 
 ## :book: dealing with 
  - docker :whale:
@@ -17,6 +16,9 @@
 ## 🏹 todos 
  - aws developer associate ☕☕☕☕☕
  - alexa skill builder speciallity 🗣️
+
+## 📬 some post
+ - [DDD research](https://jmiquis.github.io/TFG-DDD-Theoretical/)
 
 ### Hall Of Meme
 
