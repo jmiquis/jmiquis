@@ -12,9 +12,9 @@
  - springboot :hotsprings:
  - angular :triangular_ruler:
  - php ❔
+ - aws developer certificated
 
 ## 🏹 todos 
- - aws developer associate ☕☕☕☕☕
  - alexa skill builder speciallity 🗣️
 
 ## 📬 some post
