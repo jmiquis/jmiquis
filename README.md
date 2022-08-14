@@ -15,7 +15,7 @@
  - aws developer certificated
 
 ## 🏹 todos 
- - alexa skill builder speciallity 🗣️
+ - solutions architect aws
 
 ## 📬 some post
  - [DDD research](https://jmiquis.github.io/TFG-DDD-Theoretical/)
