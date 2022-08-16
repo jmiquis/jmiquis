@@ -15,7 +15,8 @@
  - aws developer certificated
 
 ## 🏹 todos 
- - solutions architect aws
+ - solutions architect aws :cloud:
+ - kubernetes
 
 ## 📬 some post
  - [DDD research](https://jmiquis.github.io/TFG-DDD-Theoretical/)
