@@ -12,11 +12,11 @@
  - springboot :hotsprings:
  - angular :triangular_ruler:
  - php ❔
- - aws developer certificated
+ - aws developer ☁️
 
 ## 🏹 todos 
  - solutions architect aws :cloud:
- - kubernetes
+ - kubernetes 🧊
 
 ## 📬 some post
  - [DDD research](https://jmiquis.github.io/TFG-DDD-Theoretical/)
