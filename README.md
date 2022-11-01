@@ -9,10 +9,12 @@
 
 ## 🛠️ actually working with
 
+ - Java dabba duh 🪨
  - springboot :hotsprings:
  - angular :triangular_ruler:
- - php ❔
+ - Vue 3 🖖
  - aws developer ☁️
+ - javaScrip 🚼
 
 ## 🏹 todos 
  - solutions architect aws :cloud:
