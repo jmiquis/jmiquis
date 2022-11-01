@@ -14,7 +14,7 @@
  - angular :triangular_ruler:
  - Vue 3 🖖
  - aws developer ☁️
- - javaScrip 🚼
+ - javaScript 🚼
 
 ## 🏹 todos 
  - solutions architect aws :cloud:
