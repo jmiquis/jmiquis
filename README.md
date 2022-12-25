@@ -1,24 +1,26 @@
 
 ## :book: dealing with 
- - docker :whale:
  - aws :cloud:
  - hex. architecture :large_orange_diamond:
  - Domain Driven Design :warning:
  - microservices :department_store: :department_store: :department_store:
  - CQRS 🚌
-
-## 🛠️ actually working with
-
- - Java dabba duh 🪨
  - springboot :hotsprings:
  - angular :triangular_ruler:
  - Vue 3 🖖
  - aws developer ☁️
+
+## 🛠️ actually working with
+
+ - Java dabba duh 🪨
  - javaScript 🚼
+ - docker :whale:
+ - API REST
 
 ## 🏹 todos 
  - solutions architect aws :cloud:
  - kubernetes 🧊
+ - Bachelor's Degree software engineering
 
 ## 📬 some post
  - [DDD research](https://jmiquis.github.io/TFG-DDD-Theoretical/)
