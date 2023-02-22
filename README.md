@@ -15,12 +15,12 @@
  - Java dabba duh 🪨
  - javaScript 🚼
  - docker :whale:
- - API REST
+ - API REST 📮
 
 ## 🏹 todos 
  - solutions architect aws :cloud:
  - kubernetes 🧊
- - Bachelor's Degree software engineering
+ - Bachelor's Degree software engineering 🎓
 
 ## 📬 some post
  - [DDD research](https://jmiquis.github.io/TFG-DDD-Theoretical/)
