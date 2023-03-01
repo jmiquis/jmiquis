@@ -1,0 +1,16 @@
+name: primera
+on:
+   create:
+      branches:
+          master
+          main
+jobs:
+  crear-publicacion-en-linkedin:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Crear publicación en LinkedIn
+      env:
+        LINKEDIN_TOKEN: ${{ secrets.LINKEDIN_TOKEN }}
+      run: echo "hello world"
