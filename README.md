@@ -9,6 +9,7 @@
  - angular :triangular_ruler:
  - Vue 3 🖖
  - aws developer ☁️
+ - Apache Kafka 🇰
 
 ## 🛠️ actually working with
 
@@ -16,6 +17,7 @@
  - javaScript 🚼
  - docker :whale:
  - API REST 📮
+ - litElement 🍂
 
 ## 🏹 todos 
  - solutions architect aws :cloud:
