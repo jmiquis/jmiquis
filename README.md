@@ -10,12 +10,13 @@
  - Vue 3 🖖
  - aws developer ☁️
  - Apache Kafka 🇰
+ - React ⚠️
 
 ## 🛠️ actually working with
 
- - Java dabba duh 🪨
+ - Web Components 🕸️
+ - Microfrontends 🔬 
  - javaScript 🚼
- - docker :whale:
  - API REST 📮
  - litElement 🍂
 
