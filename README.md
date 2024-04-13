@@ -7,9 +7,7 @@
  - CQRS 🚌
  - springboot :hotsprings:
  - angular :triangular_ruler:
- - Vue 3 🖖
  - aws developer ☁️
- - Apache Kafka 🇰
  - React ⚠️
 
 ## 🛠️ actually working with
