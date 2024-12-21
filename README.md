@@ -17,6 +17,8 @@
  - javaScript 🚼
  - API REST 📮
  - litElement 🍂
+ - SQL 🗝️
+ - Java ☕
 
 ## 🏹 todos 
  - solutions architect aws :cloud:
