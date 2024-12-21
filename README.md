@@ -1,5 +1,6 @@
 
-## :book: dealing with 
+## :book: Studying
+
  - aws :cloud:
  - hex. architecture :large_orange_diamond:
  - Domain Driven Design :warning:
@@ -9,6 +10,8 @@
  - angular :triangular_ruler:
  - aws developer ☁️
  - React ⚠️
+ - Solutions architect aws :cloud:
+ - Bachelor's Degree software engineering 🎓
 
 ## 🛠️ actually working with
 
@@ -20,10 +23,6 @@
  - SQL 🗝️
  - Java ☕
 
-## 🏹 todos 
- - solutions architect aws :cloud:
- - kubernetes 🧊
- - Bachelor's Degree software engineering 🎓
 
 ## 📬 some post
  - [DDD research](https://jmiquis.github.io/TFG-DDD-Theoretical/)
